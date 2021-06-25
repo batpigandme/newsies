@@ -37,3 +37,14 @@ Resources from above:
 -   [Newsletter
     checklist](https://github.com/ropensci/roweb3#newsletter).  
 -   [Newsletter tag page](https://ropensci.org/tags/newsletter/).
+
+Other resources:
+
+-   [`build_news()`
+    code](https://github.com/r-lib/pkgdown/blob/master/R/build-news.R)
+    from pkgdown.  
+-   [tidymodels
+    newsletter](https://www.tidyverse.org/blog/2021/03/tidymodels-2021-q1/).  
+-   [New in
+    knitr](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/).  
+-   See also (now defunct) RStudio internal newsletter updates.
