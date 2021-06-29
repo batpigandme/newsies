@@ -48,3 +48,13 @@ Other resources:
 -   [New in
     knitr](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/).  
 -   See also (now defunct) RStudio internal newsletter updates.
+
+## Notes
+
+-   Per conversation with Alison, it might be useful to do this for all
+    OSS packages, since it’s already going to be fairly long. We could
+    host it on pkgs.rstudio.com.  
+-   Based on running this [pkgreport
+    script](https://github.com/batpigandme/pkgreport/blob/conn/scripts/overview.R),
+    there are over 270 repos we cover even *without* adding anything
+    from R Markdown, etc.
